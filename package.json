@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "chartjs": "^0.3.24",
     "d3-fetch": "^1.1.2",
     "material-table": "^1.18.0",
     "react": "^16.8.3",
